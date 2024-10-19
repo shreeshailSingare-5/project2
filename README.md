@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-created by shreeshail singare  
+created by shreeshail singare.
